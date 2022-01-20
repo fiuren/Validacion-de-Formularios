@@ -1,0 +1,25 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "bootstrap/scss/utilities";
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$primario: rgb(255, 198, 255);
+$theme-colors: (
+    "primario": $primario
+);
+
+// Default variable overrides
+$body-bg: #59aabed8;
+$body-color: #272727;
+
+// Required
+
+@import "../node_modules/bootstrap/scss/root";
+
+// Optional Bootstrap components here
+@import "../node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/type";
+body{
+    background-color: aqua;
+}
