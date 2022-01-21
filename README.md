@@ -16,4 +16,4 @@
 **Unha vez finalizada a validación mediante o código js que se encontran nos arquivos, o último paso e a introducción do formulario na base de datos que teñamos configurada através do método $_POST[nomedoarquivo]. .**
 <img src="https://user-images.githubusercontent.com/89069423/150351470-10e7bc1b-168c-4cf1-8b5c-d4e4a4c0f3ec.png"/>
 
-<img src="https://user-images.githubusercontent.com/89069423/150502942-d278f8e5-0f2c-4b7f-bfb1-b95ead84166f.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/150503053-5e0b281f-843d-4018-9db8-0050f43b2a12.png"/>
